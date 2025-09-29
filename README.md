@@ -1,4 +1,4 @@
-![logo](https://github.com/Victorsbbv/Victorsbbv/blob/SENAI_logo/aurora.jpeg)
+![logo]((https://github.com/Victorsbbv/Victorsbbv/blob/SENAI_logo/senai-logo-3.png))
 ### Hello There!
 
 - 🔭 I’m currently working on TRE - Tribunal Regional Eleitoral
