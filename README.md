@@ -1,10 +1,10 @@
 
 ### Hello There!
 
-- 🔭 I’m currently working on TRE - Tribunal Regional Eleitoral
+- 🔭 I’m currently working on SMDT - Secretaria Municipal de Defesa Social e Trânsito
 - 🌱 I’m currently learning Databases / Internet Of Things
 - 👯 I’m looking to collaborate on anything!
-- 🤔 I’m looking for help with learning Python
+- 🤔 I’m looking for help with learning C# and Java!
 - 💬 Ask me about anything!
 - 📫 How to reach me: Linkedin - Victor Schernikau Bahia Bittencourt Vieira
 - 😄 Pronouns: He/Him
