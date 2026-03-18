@@ -18,10 +18,10 @@
  <img align="center" alt="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
  <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
  <img align="center" alt="html5" src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
- <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)" />
- <img align="center" alt="html5" src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff" />
- <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
- <img align="center" alt="html5" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" />
- <img align="center" alt="html5" src="https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white" />
- <img align="center" alt="html5" src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white" />
+ <img align="center" src="https://img.shields.io/badge/HTML-00599C?style=for-the-badge&logo=html5&logoColor=white" />
+ <img align="center" src="https://img.shields.io/badge/CSS-00599C?style=for-the-badge&logo=css3&logoColor=white" />
+ <img align="center" src="https://img.shields.io/badge/JavaScript-00599C?style=for-the-badge&logo=javascript&logoColor=white" />
+ <img align="center" src="https://img.shields.io/badge/Java-00599C?style=for-the-badge&logo=openjdk&logoColor=white" />
+ <img align="center" src="https://img.shields.io/badge/PHP-00599C?style=for-the-badge&logo=php&logoColor=white" />
+ <img align="center" src="https://img.shields.io/badge/C%23-00599C?style=for-the-badge&logo=csharp&logoColor=white" />
 </div>
