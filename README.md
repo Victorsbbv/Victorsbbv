@@ -23,5 +23,5 @@
  <img align="center" alt="html5" src="[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)" />
  <img align="center" alt="html5" src="[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)" />
  <img align="center" alt="html5" src="[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)" />
- <img align="center" alt="html5" src="[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)" />
+ <img align="center" alt="html5" src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)" />
 </div>
