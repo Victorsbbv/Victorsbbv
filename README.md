@@ -2,14 +2,14 @@
 ### Hello There!
 
 - 🔭 I’m currently working on SMDT - Secretaria Municipal de Defesa Social e Trânsito
-- 🌱 I’m currently learning Databases / Internet Of Things
+- 🌱 I’m currently learning C# and Java
 - 👯 I’m looking to collaborate on anything!
 - 🤔 I’m looking for help with learning C# and Java!
 - 💬 Ask me about anything!
 - 📫 How to reach me: Linkedin - Victor Schernikau Bahia Bittencourt Vieira
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a huge fan of Depeche Mode. I also enjoy gaming and TV series!
-- <a href="https://github.com/Victorsbbv/Victorsbbv/blob/Curriculum_Victor/Curriculo_Victor.pdf" class="nav-link">**Curriculum**</a>
+- <a href="https://github.com/Victorsbbv/Victorsbbv/blob/Curriculum_Victor/" class="nav-link">**Curriculum**</a>
 
 [![Victorsbbv GitHub stats](https://github-readme-stats.vercel.app/api?username=Victorsbbv&show_icons=true&theme=midnight-purple)](https://github.com/Victorsbbv/github-readme-stats)
 
