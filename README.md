@@ -11,7 +11,10 @@
 - ⚡ Fun fact: I'm a huge fan of Depeche Mode. I also enjoy gaming and TV series!
 - <a href="https://github.com/Victorsbbv/Victorsbbv/blob/Curriculum_Victor/Currículo Victor Novo.pdf" class="nav-link">**Curriculum**</a>
 
-[![Victorsbbv GitHub stats](https://github-readme-stats.vercel.app/api?username=Victorsbbv&show_icons=true&theme=midnight-purple)](https://github.com/Victorsbbv)
+<p align="center">
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=Victorsbbv&show_icons=true&theme=midnight-purple"/>
+    <br/>
+</p>
 
 <div style ="display: inline_block"><br/>
  <img align="center" alt="html5" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
